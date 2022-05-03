@@ -2,7 +2,6 @@ package draylar.tiered.mixin;
 
 import com.google.common.collect.LinkedListMultimap;
 import com.google.common.collect.Multimap;
-import com.google.common.collect.Ordering;
 import draylar.tiered.Tiered;
 import draylar.tiered.api.PotentialAttribute;
 import net.minecraft.client.item.TooltipContext;
